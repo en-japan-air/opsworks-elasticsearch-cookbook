@@ -1,0 +1,1 @@
+# Elasticsearch cookbook for OpsWorks
